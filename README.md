@@ -1,7 +1,7 @@
 <h3 align="center">uWu</h3>
 
 
-![Song Brader](https://spotify-recently-played-readme.vercel.app/api?user=22dmznwc52jgrtusyyvx76faa&width={600})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22dmznwc52jgrtusyyvx76faa&width={600})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
